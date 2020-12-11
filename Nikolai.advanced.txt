@@ -1,4 +1,4 @@
-package SDB-robo;
+package prog;
 
 import robocode.JuniorRobot;
 import robocode.Robot;
